@@ -1,0 +1,10 @@
+{
+  "jsRules": {},
+  "rulesDirectory": [],
+  "defaultSeverity": "error",
+  "rules": {
+    "trailing-comma": [false],
+    "indent": [true, "spaces"]
+  },
+  "extends": ["tslint:recommended"]
+}
